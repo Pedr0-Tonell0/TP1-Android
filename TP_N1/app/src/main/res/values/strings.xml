@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">TP N°1</string>
+    <string name="botonEjercicio1">EJERCICIO 1</string>
+    <string name="botonEjercicio2">EJERCICIO 2</string>
+    <string name="txtView_Dilacio">DILACIO GABRIEL</string>
+    <string name="txtView_Tonello">TONELLO PEDRO</string>
+    <string name="txtView_Cinierella">CINIRELLA SANTIAGO</string>
+    <string name="txtView_Integrantes">INTEGRANTES: </string>
+    <string name="txtView_Mansilla">MANSILLA NICOLAS </string>
+    <string name="txtView_Suma">Suma</string>
+    <string name="txtView_Calcular">Calcular</string>
+    <string name="txtView_PrimerNumero">Primer Número: </string>
+    <string name="txtView_SegundoNumero">Segundo Número: </string>
+    <string name="txtView_ResultadoSuma"> - </string>
+
+    //Numeros
+    <string name="txtView_Uno">1</string>
+    <string name="txtView_Dos">2</string>
+    <string name="txtView_Tres">3</string>
+    <string name="txtView_Cuatro">4</string>
+    <string name="txtView_Cinco">5</string>
+    <string name="txtView_Sies">6</string>
+    <string name="txtView_Siete">7</string>
+    <string name="txtView_Ocho">8</string>
+    <string name="txtView_Nueve">9</string>
+    <string name="txtView_Cero">0</string>
+    //Simbolos
+    <string name="txtView_Mas">+</string>
+    <string name="txtView_Menos"> - </string>
+    <string name="txtView_Multiplicado">*</string>
+    <string name="txtView_Dividido">/</string>
+    <string name="txtView_Igual">=</string>
+    <string name="txtView_Borrar">Borrar</string>
+
+    //PantallaResultado
+    <string name="txtView_Resultado">0</string>
+</resources>
